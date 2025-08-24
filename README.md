@@ -1,6 +1,6 @@
 # 🧮 Contador Pro — Práctica 1
 
-(./public/Contador-imagen.png)
+![Contador Pro](./public/Contador-imagen.png)
 
 Este proyecto es una práctica de **React + TypeScript** enfocada en reforzar el manejo de:
 
