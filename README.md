@@ -30,5 +30,6 @@ Clona el repositorio:
 git clone https://github.com/Tsuna21182/practica1.git
 cd practica1
 
-(./public/Contador-imagen.png)
 ```
+
+(./public/Contador-imagen.png)
