@@ -1,5 +1,7 @@
 # 🧮 Contador Pro — Práctica 1
 
+(./public/Contador-imagen.png)
+
 Este proyecto es una práctica de **React + TypeScript** enfocada en reforzar el manejo de:
 
 - `useState`
@@ -31,5 +33,3 @@ git clone https://github.com/Tsuna21182/practica1.git
 cd practica1
 
 ```
-
-(./public/Contador-imagen.png)
